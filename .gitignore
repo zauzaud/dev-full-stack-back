@@ -1,0 +1,15 @@
+## Ignorar Env
+
+.env
+.env.local
+.env.*.local
+.env.test.local
+
+## Ignorar Venv
+
+venv/
+
+
+## Ignorar pycache
+
+**/__pycache__/
